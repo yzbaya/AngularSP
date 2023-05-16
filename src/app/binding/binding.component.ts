@@ -13,4 +13,8 @@ constructor() { }
   ngOnInit(): void {
   }
 
+  changerTitre(){
+    this.titre ="nouveau titre";
+  }
+
 }
